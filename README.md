@@ -1,4 +1,4 @@
-# Este es el que hice para que cambien la informacion y ya
+# Trabajo del grupo hacerca de las peliculas y series
 
 git init
 git add README.md
